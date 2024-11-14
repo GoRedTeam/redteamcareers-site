@@ -1,7 +1,6 @@
 title: "Red Team Careers"
 languageCode: "en-us"
 timeZone: "America/Chicago"
-theme: "redteamcareers-live"
 
 permalinks:
   jobs: /jobs/:slug/

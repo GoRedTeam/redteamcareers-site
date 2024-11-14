@@ -1,3 +1,4 @@
+theme: "github.com/GoRedTeam/redteamcareers-theme"
 baseURL: "https://staging.goredteam.net"
 buildDrafts: false
 buildFuture: false
