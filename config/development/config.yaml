@@ -1,5 +1,5 @@
-theme: "redteamcareers-live"
 baseURL: "http://localhost:1313"
+theme: "redteamcareers-live"
 buildDrafts: true
 buildFuture: true
 buildExpired: true

@@ -1,0 +1,6 @@
+hugoVersion:
+  extended: true
+
+imports:
+  - path: github.com/GoRedTeam/redteamcareers-content
+
