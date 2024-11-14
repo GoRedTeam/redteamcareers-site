@@ -1,0 +1,6 @@
+baseURL: "https://staging.goredteam.net"
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Production-specific configurations

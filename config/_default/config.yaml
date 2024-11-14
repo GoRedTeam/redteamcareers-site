@@ -1,0 +1,17 @@
+title: "Red Team Careers"
+languageCode: "en-us"
+timeZone: "America/Chicago"
+theme: "redteamcareers-live"
+
+permalinks:
+  jobs: /jobs/:slug/
+  posts: /posts/:year/:month/:day/:slug/
+  tags: /tags/:slug/
+  category: /categories/:slug/
+  author: /authors/:slug/
+  page: /:slug/
+
+outputs:
+  home: ["HTML", "RSS"]
+  section: ["HTML", "RSS"]
+  taxonomy: ["HTML", "RSS"]

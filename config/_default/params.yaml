@@ -1,0 +1,13 @@
+description: ""
+copyright: "Go Red Team"
+
+# Enable/disable featured images
+
+contactData:
+  email: "info@redteam.careers"
+  phone: "(800) 123-4567"
+  address1: "123 Main St"
+  address2: "Suite 123"
+  city: "Richardson"
+  state: "TX"
+  zip: "75082"
